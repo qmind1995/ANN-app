@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/dataFiles">
+        <file>data/sinInput.txt</file>
+        <file>data/sinData.txt</file>
+        <file>data/t10k-images.idx3-ubyte</file>
+        <file>data/t10k-labels.idx1-ubyte</file>
+        <file>data/train-images.idx3-ubyte</file>
+        <file>data/train-labels.idx1-ubyte</file>
+        <file>data/sinInput_test.txt</file>
+        <file>data/sinData_test.txt</file>
+    </qresource>
+</RCC>
